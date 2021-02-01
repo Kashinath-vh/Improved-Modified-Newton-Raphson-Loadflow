@@ -29,6 +29,7 @@ double Pl0,Ql0,alpha,beta,kpf,kqf;
 load();
 };
 
+//  Choose alpha=0 and beta = 0 for constant PQ type of load 
 load::load()
 {
 type=0;
