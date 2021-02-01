@@ -1,0 +1,19 @@
+no_of_buses	no_of_lines	tolerance	no_of_iterations	base_V	base_VA		no_of_DGs		no_of_tie-lines
+6		5		0.0000001	100			220	1000		3			0
+sl_no	from_bus	to_bus	r(Ohm)	x(mH)
+1	1		2	0.43	0.318
+2	2		3	0.15	1.843
+3	3		6	0.05	0.05
+4	4		1	0.30	0.35
+5	2		5	0.20	0.25
+bus	PL(pu)	QL(pu)	Ltype	Commercial=1	Industrial=2	Residential=3
+1	4.842	3.204	0
+2	0	0	0
+3	6.435	4.548	0
+4	0	0	0
+5	0	0	0
+6	0	0	0
+bus_no	mp(pu)		nq(pu)		Qmax		V0(pu)	type 1=P-w,Q-V	2=P-V,Q-w	3=both
+4	0.000249343	0.00722		100000000	1.0	1
+5	0.000249343	0.00722		100000000	1.0	1
+6	0.000249343	0.00722		100000000	1.0	1
