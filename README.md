@@ -1,5 +1,7 @@
 # Improved-Modified-Newton-Raphson-Loadflow
 
+If you are using this code or the algorithm, please cite our paper. https://ieeexplore.ieee.org/document/9342587
+
 Code repo for our paper: ``Improved Modified Newton Raphson Load Flow Method for Islanded Microgrids''
 
 Published in: 2020 IEEE 17th India Council International Conference (INDICON)
